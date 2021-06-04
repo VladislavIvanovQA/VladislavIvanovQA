@@ -11,3 +11,6 @@
 <p align="left">
 	<a href="https://t.me/yennR"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" target="_blank"/></a>
 </p>
+<a href="https://github.com/ivanovvlad9626/GeekBrainsCore">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ivanovvlad9626&show_icons=true&include_all_commits=true&theme=tokyonight&&count_private=true" alt="GeekBrainsCore" />
+</a>
