@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**My name is Ilya Malykh. I work at company Sber) as Automation QA Engineer.**  
+**My name is Vlad Ivanov. I work at company Sber) as Automation QA Engineer.**  
 **I love coding in Java, learn something new.**
 
 ## 🔧 Technologies & Tools 
