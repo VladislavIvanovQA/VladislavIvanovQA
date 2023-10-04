@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**My name is Vlad Ivanov. I work at company Leroy Merlin) as Team Lead QA.**  
+**My name is Vlad Ivanov. I work at company Raiffeisen) as Senior Mobile/Back Auto QA.**  
 **I love coding in Java, learn something new.**
 
 ## 🔧 Technologies & Tools 
